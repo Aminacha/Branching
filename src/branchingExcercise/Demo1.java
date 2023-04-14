@@ -7,6 +7,9 @@ public class Demo1 {
 		System.out.println("Hello from Amina");
 		
 		System.out.println("Hello All");
+		
+		System.out.println("Fixing issue");
+		System.out.println("Fixing issue");
 
 	}
 
